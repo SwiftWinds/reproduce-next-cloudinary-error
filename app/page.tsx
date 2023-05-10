@@ -7,7 +7,7 @@ export default function Home() {
       className="block mr-2 max-w-full h-auto max-h-12 align-middle opacity-100"
       width="600"
       height="600"
-      src="https://res.cloudinary.com/blockchainucsb/logos/nav.png"
+      src="logos/nav"
       alt="Blockchain @ UCSB logo"
     />
   );
